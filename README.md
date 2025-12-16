@@ -1,5 +1,5 @@
 # Cacio,
-Desenvolvedor Front-End, utiliza HTML, CSS e Javascript para criação de experiências interessantes para os usuários, já teve uma experiência anterior com React básico.
+Desenvolvedor Front-End, utiliza HTML, CSS e Javascript para criação de experiências interessantes para os usuários, possui capacidade para a criação de componentes para interfaces de usuário com a biblioteca React.
 
 Gosto de descobrir e aprender coisas novas, gosto de entender como tudo funciona e com isso fazer um trabalho cada vez mais eficiente.
   
